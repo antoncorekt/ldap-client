@@ -1,0 +1,5 @@
+
+ldap:
+  server: corpo.t-mobile.pl
+  port: 389
+  dn: OU=Uzytkownicy,OU=Standard,OU=Warszawa,DC=corpo,DC=t-mobile,DC=pl
